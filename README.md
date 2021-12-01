@@ -18,7 +18,7 @@ Risks when our model produces wrong prediction can be development in the wrong c
 
 ## Result, Conclusion, Recommendation
 <img src=Post Test Coef.png>
-<img src=Post Test Formula.png>
+<img src=Post Test Formula.PNG>
 
 From the linear equation with R<sup>2</sup> 94% and RMSE 3.2, we are confident in saying that:
 
