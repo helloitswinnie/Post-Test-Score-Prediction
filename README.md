@@ -17,8 +17,8 @@ We can use R-squared to measure our model's goodness of fit and RMSE to measure 
 Risks when our model produces wrong prediction can be development in the wrong categories. For example if our model predicts that school setting has a high impact on students' performance, it could lead to future schools being built in only certain areas when in fact it does not have any impact on the performance. It could in turn affect future students because they may have to commute longer to their schools.
 
 ## Result, Conclusion, Recommendation
-<img src=Images/Post Test Coef.png>
-<img src=Images/Post Test Formula.PNG>
+<img src=Images/Coef.png>
+<img src=Images/Formula.PNG>
 
 From the linear equation with R<sup>2</sup> 94% and RMSE 3.2, we are confident in saying that:
 
