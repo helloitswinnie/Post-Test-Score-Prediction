@@ -7,7 +7,7 @@ From this project, we hope to find the factors that affect students' performance
 ### b. Output
 The goal is to predict students' performance (judged by their post-test score) based on the learning environment that they are in. We also want to optimize the learning environments so it can increase students' ability to study.
 
-### c. What Maching Learning Task
+### c. What Machine Learning Task
 We are using supervised learning, specifically regression. We are going to predict the post-test score as the label, which we already have from the available dataset, so we are using supervised learning. As the label is continuous numerical feature, we are going to be using regression. We are choosing from multiple models and finding out the best performing model.
 
 ### d. Performance Measure
