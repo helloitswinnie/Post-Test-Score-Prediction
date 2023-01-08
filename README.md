@@ -34,7 +34,3 @@ From the linear equation with R<sup>2</sup> 94% and RMSE 3.2, we are confident i
 From the equation, we can see that teaching_method affects the post-test scores the most, the the next most influential aspect is is the students qualify for free lunch. This aspect represents the students' economic background, meaning that students from lower economic ability usually have lower test scores.
 
 From this result, we can implement certain things to improve and balance students' learning ability (as shown by the post-test score). For example, implementing more experimental teaching methods in all schools, finding out the reasons why students from lower economic background have more trouble studying and improving that aspect, building more schools in the suburban area, and decreasing the number of students in a class.
-
-From the equation, we can see that teaching_method affects the post-test scores the most, the the next most influential aspect is is the students qualify for free lunch. This aspect represents the students' economic background, meaning that students from lower economic ability usually have lower test scores.
-
-From this result, we can implement certain things to improve and balance students' learning ability (as shown by the post-test score). For example, implementing more experimental teaching methods in all schools, finding out the reasons why students from lower economic background have more trouble studying and improving that aspect, building more schools in the suburban area, and decreasing the number of students in a class.
